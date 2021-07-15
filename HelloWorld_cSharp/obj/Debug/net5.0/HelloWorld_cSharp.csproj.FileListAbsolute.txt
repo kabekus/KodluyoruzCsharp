@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\HelloWorld_cSharp.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\HelloWorld_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\HelloWorld_cSharp.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\HelloWorld_cSharp.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\HelloWorld_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\bin\Debug\net5.0\HelloWorld_cSharp.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\bin\Debug\net5.0\HelloWorld_cSharp.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\bin\Debug\net5.0\HelloWorld_cSharp.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\bin\Debug\net5.0\HelloWorld_cSharp.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\bin\Debug\net5.0\HelloWorld_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\bin\Debug\net5.0\ref\HelloWorld_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\bin\Debug\net5.0\HelloWorld_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\HelloWorld_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\ref\HelloWorld_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\HelloWorld_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HelloWorld_cSharp\obj\Debug\net5.0\HelloWorld_cSharp.genruntimeconfig.cache
