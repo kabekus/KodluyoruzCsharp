@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\bin\Debug\net5.0\Degiskenler_cSharp.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\bin\Debug\net5.0\Degiskenler_cSharp.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\bin\Debug\net5.0\Degiskenler_cSharp.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\bin\Debug\net5.0\Degiskenler_cSharp.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\bin\Debug\net5.0\Degiskenler_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\bin\Debug\net5.0\ref\Degiskenler_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\bin\Debug\net5.0\Degiskenler_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\Degiskenler_cSharp.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\Degiskenler_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\Degiskenler_cSharp.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\Degiskenler_cSharp.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\Degiskenler_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\Degiskenler_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\ref\Degiskenler_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\Degiskenler_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Degiskenler_cSharp\obj\Debug\net5.0\Degiskenler_cSharp.genruntimeconfig.cache
