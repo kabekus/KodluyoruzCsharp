@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\bin\Debug\net5.0\TurDonusum_cSharp.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\bin\Debug\net5.0\TurDonusum_cSharp.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\bin\Debug\net5.0\TurDonusum_cSharp.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\bin\Debug\net5.0\TurDonusum_cSharp.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\bin\Debug\net5.0\TurDonusum_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\bin\Debug\net5.0\ref\TurDonusum_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\bin\Debug\net5.0\TurDonusum_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\TurDonusum_cSharp.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\TurDonusum_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\TurDonusum_cSharp.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\TurDonusum_cSharp.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\TurDonusum_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\TurDonusum_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\ref\TurDonusum_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\TurDonusum_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\TurDonusum_cSharp\obj\Debug\net5.0\TurDonusum_cSharp.genruntimeconfig.cache
