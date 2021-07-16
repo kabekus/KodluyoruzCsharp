@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\bin\Debug\net5.0\HataYonetimi_cSharp.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\bin\Debug\net5.0\HataYonetimi_cSharp.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\bin\Debug\net5.0\HataYonetimi_cSharp.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\bin\Debug\net5.0\HataYonetimi_cSharp.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\bin\Debug\net5.0\HataYonetimi_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\bin\Debug\net5.0\ref\HataYonetimi_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\bin\Debug\net5.0\HataYonetimi_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\HataYonetimi_cSharp.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\HataYonetimi_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\HataYonetimi_cSharp.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\HataYonetimi_cSharp.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\HataYonetimi_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\HataYonetimi_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\ref\HataYonetimi_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\HataYonetimi_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\HataYonetimi_cSharp\obj\Debug\net5.0\HataYonetimi_cSharp.genruntimeconfig.cache
