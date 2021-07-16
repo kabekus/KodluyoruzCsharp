@@ -59,6 +59,8 @@ namespace Degiskenler_cSharp
             string date = DateTime.Now.ToString("dd.MM.yyyy");
             string hour = DateTime.Now.ToString("HH:mm");
             Console.WriteLine(date + " - " + hour); // output -> 15.07.2021 - 05:30
+
+            
         }
     }
 }
