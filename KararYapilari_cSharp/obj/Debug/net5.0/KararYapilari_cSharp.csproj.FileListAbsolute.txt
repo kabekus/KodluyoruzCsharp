@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\bin\Debug\net5.0\KararYapilari_cSharp.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\bin\Debug\net5.0\KararYapilari_cSharp.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\bin\Debug\net5.0\KararYapilari_cSharp.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\bin\Debug\net5.0\KararYapilari_cSharp.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\bin\Debug\net5.0\KararYapilari_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\bin\Debug\net5.0\ref\KararYapilari_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\bin\Debug\net5.0\KararYapilari_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\KararYapilari_cSharp.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\KararYapilari_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\KararYapilari_cSharp.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\KararYapilari_cSharp.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\KararYapilari_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\KararYapilari_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\ref\KararYapilari_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\KararYapilari_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari_cSharp\obj\Debug\net5.0\KararYapilari_cSharp.genruntimeconfig.cache
