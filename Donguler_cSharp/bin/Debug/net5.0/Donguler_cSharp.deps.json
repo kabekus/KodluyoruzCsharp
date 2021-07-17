@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Donguler_cSharp/1.0.0": {
+        "runtime": {
+          "Donguler_cSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Donguler_cSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
