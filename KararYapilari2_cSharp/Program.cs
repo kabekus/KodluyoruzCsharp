@@ -6,6 +6,7 @@ namespace KararYapilari2_cSharp
     {
         static void Main(string[] args)
         {
+          
             int month =DateTime.Now.Month;
             
             switch (month){
