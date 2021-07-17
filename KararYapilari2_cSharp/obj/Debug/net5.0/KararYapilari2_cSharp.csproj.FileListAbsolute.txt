@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\bin\Debug\net5.0\KararYapilari2_cSharp.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\bin\Debug\net5.0\KararYapilari2_cSharp.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\bin\Debug\net5.0\KararYapilari2_cSharp.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\bin\Debug\net5.0\KararYapilari2_cSharp.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\bin\Debug\net5.0\KararYapilari2_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\bin\Debug\net5.0\ref\KararYapilari2_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\bin\Debug\net5.0\KararYapilari2_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\KararYapilari2_cSharp.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\KararYapilari2_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\KararYapilari2_cSharp.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\KararYapilari2_cSharp.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\KararYapilari2_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\KararYapilari2_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\ref\KararYapilari2_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\KararYapilari2_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\KararYapilari2_cSharp\obj\Debug\net5.0\KararYapilari2_cSharp.genruntimeconfig.cache
