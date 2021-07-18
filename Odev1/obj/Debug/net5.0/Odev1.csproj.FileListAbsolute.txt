@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\Odev1.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\Odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\Odev1.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\Odev1.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\bin\Debug\net5.0\Odev1.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\bin\Debug\net5.0\Odev1.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\bin\Debug\net5.0\Odev1.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\bin\Debug\net5.0\Odev1.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\bin\Debug\net5.0\ref\Odev1.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\bin\Debug\net5.0\Odev1.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\Odev1.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\ref\Odev1.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\Odev1.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Odev1\obj\Debug\net5.0\Odev1.genruntimeconfig.cache
