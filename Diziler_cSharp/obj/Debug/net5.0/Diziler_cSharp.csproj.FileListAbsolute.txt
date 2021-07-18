@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\bin\Debug\net5.0\Diziler_cSharp.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\bin\Debug\net5.0\Diziler_cSharp.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\bin\Debug\net5.0\Diziler_cSharp.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\bin\Debug\net5.0\Diziler_cSharp.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\bin\Debug\net5.0\Diziler_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\bin\Debug\net5.0\ref\Diziler_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\bin\Debug\net5.0\Diziler_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\Diziler_cSharp.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\Diziler_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\Diziler_cSharp.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\Diziler_cSharp.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\Diziler_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\Diziler_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\ref\Diziler_cSharp.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\Diziler_cSharp.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Diziler_cSharp\obj\Debug\net5.0\Diziler_cSharp.genruntimeconfig.cache
