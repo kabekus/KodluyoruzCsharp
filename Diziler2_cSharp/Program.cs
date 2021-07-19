@@ -33,8 +33,6 @@ namespace Diziler2_cSharp
             numberList[7]=100;
             foreach (var num in numberList)
                 Console.Write("Sırasız" + num);
-
-
         } 
     }
 }
