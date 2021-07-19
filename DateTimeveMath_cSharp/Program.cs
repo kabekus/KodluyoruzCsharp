@@ -17,7 +17,7 @@ namespace DateTimeveMath_cSharp
             Console.WriteLine(DateTime.Now.DayOfWeek);
             Console.WriteLine(DateTime.Now.DayOfYear);
 
-            Console.WriteLine(DateTime.Now.ToLongDateString());
+            Console.WriteLine(DateTime.Now.ToLongDateString()); //
             Console.WriteLine(DateTime.Now.ToShortDateString());
             Console.WriteLine(DateTime.Now.ToLongTimeString());
             Console.WriteLine(DateTime.Now.ToShortTimeString());
@@ -54,7 +54,7 @@ namespace DateTimeveMath_cSharp
             Console.WriteLine(Math.Min(2,9));//2
             Console.WriteLine(Math.Pow(4,2));//4 üzeri 2 işlemini yapar
             Console.WriteLine(Math.Sqrt(5));//Karekökünü alır
-            
+
         }
     }
 }
