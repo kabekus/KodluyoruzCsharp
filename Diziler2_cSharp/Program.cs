@@ -22,6 +22,7 @@ namespace Diziler2_cSharp
 
             //Reverse
             Array.Reverse(numberList);
+            //listeler  için ise listeAdı.Revers(); şeklinde yapılır!!
             foreach (var num in numberList)
                 Console.Write("Sırasız" + num);
 
