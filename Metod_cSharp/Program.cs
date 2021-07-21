@@ -6,36 +6,45 @@ namespace Metod_cSharp
     {
         static void Main(string[] args)
         {
-            int a=2, b=9; 
-            Console.WriteLine(a+b);
+             
+             String sayi = "999";
+             bool sonuc = int.TryParse(sayi,out int outSayi);
+             if (sonuc)
+             {
+                Console.WriteLine("Başarılı " + outSayi);
+             }else{ 
+                 Console.WriteLine("Başarısız ");
+             }
 
-            int result = Gather(a,b);
-            Console.WriteLine(result);
-
-            Operation example = new Operation();
-            example.WriteToScreen(Convert.ToString(result));
+             //Ayrı bir class tanımladıktan sonra onu kullanabilmek için o class'ın instance ını oluşturmalıyız.
             
-            int result2 = example.IncreaseAndCollect(ref a , ref b);
-            example.WriteToScreen(Convert.ToString(result2));
-            example.WriteToScreen(Convert.ToString(a+b));
+            Metodlar instance = new Metodlar();
+            instance.Topla(9,5,out int sonuc2);
+            Console.Write(sonuc2);
+
+            //Method Overloading - Aşırı Yükleme
+            int ifade = 999;
+            instance.EkranaYazdir(Convert.ToString(ifade));
+            instance.EkranaYazdir(ifade);
+            instance.EkranaYazdir("Hello","World");
 
         }
-        static int Gather(int x, int y){
-            return x+y;
+        class Metodlar
+        {
+            public void Topla(int a, int b, out int toplam){
+                toplam = a+ b;
+            }
+
+            public void EkranaYazdir(string veri){
+                Console.WriteLine(veri);
+            }
+            public void EkranaYazdir(int veri){
+                Console.WriteLine(veri);
+            }
+            public void EkranaYazdir(string veri1 , string veri2){
+                Console.WriteLine(veri1 + veri2);
+            }
+
         }
-    }
-    class Operation
-    {
-        public void WriteToScreen(string value){
-            Console.WriteLine(value);
-        }
-
-        public int IncreaseAndCollect(ref int x, ref int y){
-            x += 1;
-            y += 1;
-            return x+y;
-
-        } 
-
     }
 }
