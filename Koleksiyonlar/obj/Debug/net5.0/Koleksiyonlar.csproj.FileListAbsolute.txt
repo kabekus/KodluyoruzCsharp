@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\bin\Debug\net5.0\ref\Koleksiyonlar.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\ref\Koleksiyonlar.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.genruntimeconfig.cache
