@@ -1,0 +1,16 @@
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\bin\Debug\net5.0\Sınıflar_6.exe
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\bin\Debug\net5.0\Sınıflar_6.deps.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\bin\Debug\net5.0\Sınıflar_6.runtimeconfig.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\bin\Debug\net5.0\Sınıflar_6.runtimeconfig.dev.json
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\bin\Debug\net5.0\Sınıflar_6.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\bin\Debug\net5.0\ref\Sınıflar_6.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\bin\Debug\net5.0\Sınıflar_6.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\Sınıflar_6.csprojAssemblyReference.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\Sınıflar_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\Sınıflar_6.AssemblyInfoInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\Sınıflar_6.AssemblyInfo.cs
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\Sınıflar_6.csproj.CoreCompileInputs.cache
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\Sınıflar_6.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\ref\Sınıflar_6.dll
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\Sınıflar_6.pdb
+C:\Users\casper\Documents\GitHub\KodluyoruzCSharp\Sınıflar_6\obj\Debug\net5.0\Sınıflar_6.genruntimeconfig.cache
