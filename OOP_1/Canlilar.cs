@@ -13,6 +13,9 @@ namespace OOP_1
         public void Bosaltim(){
             Console.WriteLine("Canlılar Boşaltım Yapar");
         }
+        public virtual void UyaranlaraTepki(){
+            Console.WriteLine("Canlılar uyaranlara tepki verir");
+        }
 
 
     }

@@ -8,7 +8,8 @@ namespace OOP_1
         {
             // OOP 3 Ana prensipten oluşur -> *Encapsulation *Polimorphizim *Inheritence
             //Inheritence (Kalıtım) -> Alt sınıfın üst sınıftan kalıtım alarak üst sınıfın bazı özelliklerini kendisinin kullanmaası denebilir.
-            
+            //sealed  anahtar kelimesini kullandığımız class hiçbir şekilde kalıtım veremez.
+
             Tohumlu tohumluBitki = new Tohumlu();
             tohumluBitki.Beslenme();
             tohumluBitki.Bosaltim();

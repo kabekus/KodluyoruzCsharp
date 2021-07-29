@@ -6,6 +6,12 @@ namespace OOP_1
          public void Fotosentez(){
             Console.WriteLine("Fotosentez Bitkilere Özeldir");
         }
+
+        public override void UyaranlaraTepki()
+        {
+            base.UyaranlaraTepki();
+            Console.WriteLine("Bitkiler uyaranlara tepki verir");
+        }
     }
     public class Tohumlu:Bitkiler{
         public void TohumlaCogalma(){
